@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @M-Parvati
-- 👀 I’m interested in DATA ANALYTICS,BUSINESS INTELLIGENCE,
+- 👀 I’m interested in DATA ANALYTICS,BUSINESS INTELLIGENCE.
 - 🤩 Passionate about turning raw data into actionable insights to support smart business decisions..
 - 🌱 I’m currently exploring sql,power bi,excel,tableau in deep and python(basic).
 - 💞️ I’m looking to collaborate on data analytics projects. 
